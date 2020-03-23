@@ -27,4 +27,4 @@ The key components of this project are the photoresistor(PR) and the servo.
 Whenever the PR detects a cactus, it fires a signal to the servo, triggering a "Press" motion.
 >keep the servo near the spacebar(adjust the rotation according to your keyboard).
 
-ENJOY
+ENJOY!!!
